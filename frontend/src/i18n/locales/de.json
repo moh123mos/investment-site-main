@@ -1,0 +1,479 @@
+{
+  "nav": {
+    "startseite": "Startseite",
+    "angebote": "Angebote",
+    "salzgitter": "Salzgitter",
+    "goslar": "Goslar",
+    "halberstadt": "Halberstadt",
+    "kothen": "Köthen",
+    "hannover": "Hannover",
+    "agypten": "ÄGYPTEN"
+  },
+  "home": {
+    "section1": {
+      "title": "Warum Immobilien!",
+      "text": "Immobilieninvestitionen gelten aufgrund ihrer stabilen Einkommensquelle, potenziellen Wertsteigerung, Inflationsschutz, Diversifikation, Steuervorteile und langfristigen Stabilität als attraktive Option für einen rentablen Ruhestand. Dennoch sollten die mit Immobilien verbundenen Risiken wie Leerstand und lokale Marktbedingungen berücksichtigt werden. Eine gut durchdachte Investitionsstrategie, die Immobilien einschließt, kann eine solide Grundlage für den Ruhestand schaffen, erfordert jedoch gründliche Recherche und finanzielle Planung.",
+      "signature": "Dr. M. Reda Sholkami",
+      "website": "medical-invest.de"
+    },
+    "section2": {
+      "quote": "Ein Haus wird mit Brettern und Nägeln gebaut, aber ein Zuhause wird durch Liebe und Fürsorge geschaffen - und die Frau ist das Herzstück dieses Zuhause"
+    },
+    "section3": {
+      "title": "Ratgeber rund um Ihre Immobilie",
+      "text": "Die eigene Immobilie steht für Lebensqualität. Als Kapitalanlage ist sie ein wichtiger Bestandteil der privaten Vorsorge, die im Alter finanzielle und private Freiräume schaffen kann"
+    },
+    "section4": {
+      "title": "Blog Gesundheitsmarkt"
+    },
+    "section5": {
+      "title": "Die ungesagte Wahrheit über Geld: Wie man Wohlstand aus dem Nichts aufbaut"
+    },
+    "section6": {
+      "title1": "Investieren lernen: 12 Tipps für Anfänger!",
+      "title2": "Robert Kiyosaki 2019"
+    },
+    "section7": {
+      "title": "Vermietete Immobilie: Steuern und Steuertipps",
+      "text": "Vermietete Immobilie: Welche Steuern gibt es und auf was muss man als Eigentümer einer fremdgenutzten Immobilie beachten? Das erfahrt ihr kurz und kompakt in diesem Video und am Ende gibt es noch eine kleine Überraschung von uns für euch!"
+    },
+    "section8": {
+      "title": "Entkommen aus dem Hamsterrad: Was die Schule dir über Geld nicht beigebracht hat."
+    },
+    "section9": {
+      "title1": "Diese ETFs gehören 2023 in dein Depot!",
+      "title2": "5 Passive Einkommensideen"
+    }
+  },
+  "footer": {
+    "col1": {
+      "title": "Immobilie verkaufen",
+      "link1": "Immobilienverkauf",
+      "link2": "Immobilienberater",
+      "link3": "Immobilie bewerten"
+    },
+    "col2": {
+      "title": "Immobilie suchen",
+      "link1": "Immobilie suchen",
+      "link2": "Suchauftrag anlegen"
+    },
+    "col3": {
+      "title": "Immobilie finanzieren",
+      "link1": "Immobilie finanzieren"
+    },
+    "col4": {
+      "title": "Unternehmen",
+      "link1": "Über uns",
+      "link2": "Geschäftsmodell",
+      "link3": "News, Presse & Mediathek",
+      "link4": "Datenschutz",
+      "link5": "Impressum"
+    }
+  },
+  "angebote": {
+    "hero": {
+      "title": "Unsere Angebote",
+      "subtitle": "Professionelle Immobiliendienstleistungen für Ihre individuellen Bedürfnisse"
+    },
+    "services": {
+      "title": "Unsere Dienstleistungen",
+      "subtitle": "Wir bieten Ihnen umfassende Beratung und Unterstützung in allen Bereichen der Immobilienwirtschaft",
+      "buying": {
+        "title": "Immobilienkauf",
+        "description": "Wir helfen Ihnen, die perfekte Immobilie zu finden, die Ihren Bedürfnissen und Ihrem Budget entspricht. Von der ersten Besichtigung bis zum Vertragsabschluss."
+      },
+      "selling": {
+        "title": "Immobilienverkauf",
+        "description": "Profitieren Sie von unserer Expertise im Verkauf von Immobilien. Wir sorgen für eine optimale Vermarktung und den besten Preis für Ihre Immobilie."
+      },
+      "consulting": {
+        "title": "Beratung & Bewertung",
+        "description": "Erhalten Sie professionelle Beratung zur Wertermittlung, Investitionsmöglichkeiten und strategischen Planung Ihrer Immobilienprojekte."
+      },
+      "management": {
+        "title": "Verwaltung",
+        "description": "Umfassende Verwaltungsdienstleistungen für Ihre Immobilien. Wir kümmern uns um alles, damit Sie sich entspannt zurücklehnen können."
+      }
+    },
+    "whyUs": {
+      "title": "Warum Medical-Invest?",
+      "text1": "Mit langjähriger Erfahrung in der Immobilienbranche bieten wir Ihnen einen umfassenden Service, der auf Ihre individuellen Bedürfnisse zugeschnitten ist. Unser Portfolio umfasst attraktive Immobilien in erstklassigen Lagen.",
+      "text2": "Wir verstehen die besonderen Anforderungen von Ärzten, medizinischem Fachpersonal und Klinikumsmitarbeitern. Unsere Immobilien sind strategisch in der Nähe von medizinischen Einrichtungen gelegen.",
+      "text3": "Transparenz, Vertrauen und persönliche Betreuung stehen bei uns an erster Stelle. Wir begleiten Sie von der ersten Beratung bis zum erfolgreichen Abschluss und darüber hinaus."
+    },
+    "locations": {
+      "title": "Unsere Standorte",
+      "subtitle": "Wir bieten Ihnen exklusive Immobilien in den besten Lagen Deutschlands und international",
+      "salzgitter": "Salzgitter",
+      "goslar": "Goslar",
+      "halberstadt": "Halberstadt",
+      "kothen": "Köthen",
+      "hannover": "Hannover",
+      "agypten": "Ägypten"
+    },
+    "contact": {
+      "title": "Bereit für Ihre Traumimmobilie?",
+      "text": "Kontaktieren Sie uns noch heute für eine unverbindliche Beratung. Wir freuen uns darauf, Sie auf dem Weg zu Ihrer perfekten Immobilie zu begleiten."
+    }
+  },
+  "salzgitter": {
+    "intro": {
+      "text1": "Salzgitter bietet eine Vielzahl von Wohnmöglichkeiten für Menschen mit unterschiedlichen Bedürfnissen und Budgets. Es gibt Wohnungen, Einfamilienhäuser und Reihenhäuser in verschiedenen Stadtteilen, von zentralen Lagen bis hin zu ländlichen Gebieten.",
+      "text2": "Unser Immobilienportfolio richtet sich insbesondere an Mitarbeiter der VW-Fabrik. Ärzte, Apotheken, Schulen und Einkaufsmöglichkeiten sind bequem zu Fuß erreichbar. Der Salzgitter See ist nur 10 Minuten entfernt und Braunschweig ist in 15 Minuten mit dem Auto erreichbar. Die Autobahn nach Hannover ist ebenfalls schnell erreichbar und nur etwa 30 Minuten entfernt."
+    },
+    "metropole": {
+      "title": "Salzgitter: die Wahre Metropole",
+      "text1": "Salzgitter ist eine Stadt in Niedersachsen, Deutschland, die eine lange Industriegeschichte hat. Die Stadt wurde im Zweiten Weltkrieg stark bombardiert und danach wiederaufgebaut. Heute ist Salzgitter vor allem bekannt für seine Stahl- und Metallindustrie, aber es gibt auch viele andere Branchen, wie beispielsweise den Maschinenbau und die Energieversorgung.",
+      "text2": "Salzgitter ist auch eine grüne Stadt, umgeben von vielen Wäldern und Seen. Es gibt viele Möglichkeiten für Outdoor-Aktivitäten, wie Wandern und Radfahren, sowie für Wassersport und Angeln.",
+      "text3": "In der Stadt selbst gibt es einige interessante Sehenswürdigkeiten, wie das Schloss Salder und die St. Andreas-Kirche. Es gibt auch mehrere Einkaufszentren und Märkte, wo Sie lokale Produkte kaufen können.",
+      "text4": "Alles in allem ist Salzgitter eine Stadt mit einer reichen Geschichte und vielen Möglichkeiten für Industrie, Natur und Kultur."
+    },
+    "vw": {
+      "title": "Volkswagen Forschungszentrum",
+      "text1": "Volkswagen ist einer der wichtigsten Arbeitgeber in Salzgitter und betreibt dort ein großes Werk für die Produktion von Motoren und Getrieben. Das Werk in Salzgitter ist eines der größten und modernsten seiner Art weltweit und beschäftigt tausende Mitarbeiterinnen und Mitarbeiter.",
+      "text2": "Volkswagen hat in Salzgitter auch ein Forschungszentrum für alternative Antriebe und erneuerbare Energien etabliert, wo an neuen Technologien für Elektroautos und Wasserstoffantriebe gearbeitet wird.",
+      "text3": "Das Engagement von Volkswagen in Salzgitter hat auch Auswirkungen auf die Wirtschaft der Region. Viele lokale Unternehmen sind Zulieferer für Volkswagen und profitieren von der Zusammenarbeit.",
+      "text4": "Insgesamt ist Volkswagen ein wichtiger Bestandteil der Wirtschaft und des Lebens in Salzgitter."
+    },
+    "central": {
+      "title": "Im Zentrum vom Deutschland",
+      "text1": "Salzgitter ist durch seine zentrale Lage in Deutschland sehr gut an das Verkehrsnetz angebunden. Es gibt mehrere Autobahnen, die von Salzgitter aus zu den großen Städten führen, wie zum Beispiel die A39 in Richtung Braunschweig und Wolfsburg, die A7 in Richtung Hannover und Kassel und die A2 in Richtung Berlin und Dortmund.",
+      "text2": "Auch der öffentliche Nahverkehr bietet gute Verbindungen zu den umliegenden Städten. Es gibt mehrere Buslinien, die Salzgitter mit den umliegenden Gemeinden und Städten verbinden. Der Bahnhof in Salzgitter-Bad bietet direkte Zugverbindungen nach Hannover, Braunschweig und Berlin.",
+      "text3": "Dank der guten Verkehrsanbindung ist es einfach, von Salzgitter aus große Städte in Deutschland zu erreichen. Dies erleichtert sowohl den Berufsverkehr als auch den Tourismus und ermöglicht es Einwohnern und Besuchern, verschiedene Teile Deutschlands zu erkunden."
+    }
+  },
+  "goslar": {
+    "intro": {
+      "text": "Unser Immobilienportfolio vereint den Charme der Historie mit der Eleganz und Schönheit von Goslarer Innenstadthäusern sowie einem modernen Touch von Luxus. darüber hinaus haben Sie das Privileg, Ihren eigenen Parkplatz in der Innenstadt zu besitzen."
+    },
+    "authenticity": {
+      "title": "Warum Goslar : Authentizität",
+      "text": "Es gibt keine andere Stadt auf der Welt, die Authentizität so stark verkörpert und ausstrahlt wie Goslar, die wunderschöne Stadt Goslar im Harz ist historische Altstadt mit malerischen Fachwerkhäusern, engen Gassen und gepflasterten Straßen, die ihr eine einzigartige Atmosphäre verleihen. Das Wahrzeichen der Stadt ist zweifellos der imposante Kaiserpalast, der auf einem Hügel über der Stadt thront und ein beeindruckendes Beispiel mittelalterlicher Architektur darstellt. Auch die zahlreichen Kirchen, Klöster und Bürgerhäuser in der Altstadt sind sehenswert und tragen zur Schönheit und dem historischen Charme der Stadt bei."
+    },
+    "christmas": {
+      "title": "die weihnachtsmarkt",
+      "text": "Der Weihnachtsmarkt in Goslar ist ein jährliches Highlight in der Stadt. Mit seinen festlich geschmückten Buden und Ständen erstreckt sich der Markt durch die malerische Altstadt und bietet eine einzigartige Atmosphäre. Hier kann man sich von Glühwein, Bratwurst und anderen Leckereien verwöhnen lassen und die festliche Stimmung genießen. Besonders beeindruckend sind auch die vielen Handwerksstände, an denen man kunstvolle Geschenke und Souvenirs erwerben kann."
+    },
+    "week": {
+      "title": "Was man in einer Woche tun kann",
+      "day1": {
+        "title": "Tag 1",
+        "activity": "Spaziergang durch die Altstadt, Besichtigung des Marktplatzes und der historischen Gebäude wie dem Kaiserpalast und dem Kloster."
+      },
+      "day2": {
+        "title": "Tag 2",
+        "activity": "Ausflug zum Rammelsberg-Bergwerk und Besichtigung des UNESCO-Weltkulturerbes, geführte Tour durch die alte Erzmine und die Anlagen."
+      },
+      "day3": {
+        "title": "Tag 3",
+        "activity": "Wanderung im Nationalpark Harz, zum Beispiel auf dem Brocken oder auf einem der vielen anderen Wanderwege in der Umgebung."
+      },
+      "day4": {
+        "title": "Tag 4",
+        "activity": "Besuch des Bergbaumuseums in Lautenthal oder des Heimat-museums in Goslar, um mehr über die Geschichte und Kultur der Region zu erfahren."
+      },
+      "day5": {
+        "title": "Tag 5",
+        "activity": "Skifahren oder Snowboarden in einem der nahegelegenen Skigebiete, wie zum Beispiel dem Wurmberg oder dem Skigebiet Braunlage."
+      },
+      "day6": {
+        "title": "Tag 6",
+        "activity": "Entspannungstag im Wellnessbereich eines Hotels oder in einem der Thermalbäder, wie dem Salztherme in Bad Harzburg."
+      },
+      "day7": {
+        "title": "Tag 7",
+        "activity": "Besuch des Weihnachtsmarkts in Goslar und Shopping für regionale Handwerksprodukte oder Souvenirs."
+      }
+    }
+  },
+  "halberstadt": {
+    "medical": {
+      "title": "Ein Medizincampus für Halberstadt",
+      "text1": "Unser Immobilienportfolio richtet sich insbesondere an Mitarbeiter des Klinikums Ameos Halberstadt und an Ärzte in der Umgebung. Das Krankenhaus ist nur 3 Gehminuten entfernt und somit bequem zu erreichen. Wir freuen uns auf die zukünftige Zusammenarbeit zwischen dem Klinikum Ameos und der Medizinischen Fakultät der Josip-Juraj-Strossmayer-Universität.",
+      "text2": "Seit Herbst 2021 bieten das Klinikum Ameos und die Medizinische Fakultät der Josip-Juraj-Strossmayer-Universität Osijek ein vollständig deutschsprachiges Medizinstudium an. Die Studierenden absolvieren die Vorklinik in Kroatien, während der praktische Teil nach dem 3. Studienjahr auf dem Campus des Klinikums Ameos in Halberstadt stattfindet. Das Studium schließt nach 6 Jahren mit dem international bekannten Abschluss \"MD\" (Medical Doctor) ab. Wir bieten unser gesamtes Portfolio auch den Kollegen im Medizinstudium an."
+    },
+    "history": {
+      "title": "Stadt mit einer reiche Geschichte",
+      "text": "Halberstadt hat eine reiche Geschichte, die bis ins Mittelalter zurückreicht. Halberstadt ist bekannt für seine historische Altstadt, die viele gut erhaltene Gebäude aus verschiedenen Epochen beherbergt. Einige der wichtigsten Sehenswürdigkeiten in Halberstadt sind der Dom St. Stephanus und St. Sixtus, das Rathaus und das Schloss Halberstadt. Die Stadt bietet auch eine Reihe von Museen, darunter das Gleimhaus, das Museum Halberstadt und das Spiegelsberge-Haus. Halberstadt ist auch ein wichtiger Wirtschaftsstandort in der Region. Die Stadt beherbergt verschiedene Industrieunternehmen, darunter auch Unternehmen der Lebensmittel- und Textilindustrie."
+    },
+    "wagon": {
+      "title": "wir haben alle, Halberstadt zu danken",
+      "text1": "Durch die Erfindung des Halberstädter Wagens im 19. Jahrhundert wurde ein Meilenstein im Bereich des Schwerlasttransports gesetzt. Der Halberstädter Wagen war ein besonderes Transportmittel, das in Halberstadt erfunden wurde.",
+      "text2": "Die Idee für den Wagen kam von einem Mann namens Johann Andreas Schubert, der ein Fuhrunternehmer in Halberstadt war. Schubert hatte Schwierigkeiten, schwere Lasten über die unebenen Straßen und Wege in der Region zu transportieren. Sein Ziel war es, ein Transportmittel zu entwickeln, das diese Probleme lösen konnte.",
+      "text3": "Schubert kam auf die Idee, eine Art Fahrrad mit drei Rädern zu bauen, das von einem Pferd gezogen werden konnte. Der Wagen hatte zwei große Räder hinten und ein kleines Rad vorne. Der Fahrer saß auf einem Sitz hinter dem Pferd und konnte das Gefährt durch Treten von Pedalen vorwärts bewegen.",
+      "text4": "Der Halberstädter Wagen war sehr erfolgreich und wurde bald in der Region und darüber hinaus bekannt. Er wurde von vielen Fuhrunternehmern und Transportunternehmen genutzt, um schwere Lasten zu transportieren. Der Wagen war auch ein Vorläufer des modernen Fahrrads, da er das Prinzip des Tretantriebs nutzte.",
+      "text5": "Heute erinnert eine Skulptur auf dem Holzmarkt in Halberstadt an die Erfindung des Halberstädter Wagens und an Johann Andreas Schubert. Die Erfindung des Wagens hat nicht nur die Geschichte der Stadt geprägt, sondern auch den Transport in der Region und darüber hinaus revolutioniert."
+    },
+    "heart": {
+      "title": "Herz am rechten Fleck",
+      "text": "reiche Geschichte, kulturelle Vielfalt, viele Festivals und Veranstaltungen im Laufe des Jahres, wie das John-Cage-Orgelprojekt, das internationale Straßentheaterfestival, die Konzerte im Dom und vieles mehr, malerische Landschaft, die zum Wandern, Radfahren und Entspannen einlädt, Outdoor-Aktivitäten und Naturerlebnisse und vor allem trägt die offene und herzliche Art der Menschen dazu bei, dass sich viele Menschen in Halberstadt schnell zuhause fühlen"
+    },
+    "transport": {
+      "title": "wo Ost und West sich vereint",
+      "text1": "Halberstadt ist gut an das deutsche Autobahnnetz angebunden. Die Stadt liegt an der A36, die eine Verbindung zur A14 und A395 bietet. Dadurch ist Halberstadt gut mit anderen Städten in Deutschland verbunden, wie beispielsweise Magdeburg und Halle, die über die A14 erreicht werden können.",
+      "text2": "Es gibt auch eine direkte Bahnverbindung von Halberstadt nach Magdeburg, die in etwa 40 Minuten zurückgelegt werden kann. Von Magdeburg aus können weitere Städte wie Berlin, Leipzig und Hannover mit dem Zug erreicht werden.",
+      "text3": "Darüber hinaus gibt es Busverbindungen von Halberstadt zu anderen Städten in der Region, wie beispielsweise Quedlinburg und Wernigerode.",
+      "text4": "Insgesamt bietet Halberstadt gute Verkehrsverbindungen zu anderen Städten in Deutschland. Ob mit dem Auto, Zug oder Bus, es gibt verschiedene Optionen für Reisende, um andere Städte in der Region und darüber hinaus zu erreichen."
+    }
+  },
+  "kothen": {
+    "helios": {
+      "text": "Unser Immobilienportfolio in Köthen dient vor allem den Mitarbeitern des Helios Klinikums. Wir haben uns zum Ziel gesetzt, unsere Immobilien im Stadtzentrum und in der Nähe des Klinikums anzubieten, um eine Vielzahl von Möglichkeiten und Vorteilen zu bieten. Die Stadt in Sachsen-Anhalt ist bekannt für ihre historische Altstadt und bietet eine gute Infrastruktur sowie eine ruhige Umgebung. Es gibt auch zahlreiche Kindergärten, Schulen und Freizeitmöglichkeiten für Kinder. Für Singles und junge Paare gibt es in der Innenstadt zahlreiche moderne Wohnungen, die oft in historischen Gebäuden untergebracht sind. Die Nähe zu Einkaufsmöglichkeiten, Restaurants und Bars sowie kulturellen Einrichtungen wie Museen und Theater ist ein weiterer Pluspunkt."
+    },
+    "jakob": {
+      "title": "St. Jakob Kirche",
+      "text": "St. Jakob in Köthen ist eine evangelische Kirche, die im 12. Jahrhundert erbaut wurde und zu den ältesten Gebäuden der Stadt gehört. Die Kirche ist benannt nach dem Apostel Jakobus und hat im Laufe der Jahrhunderte zahlreiche Veränderungen und Erweiterungen erfahren. Ein besonderes Merkmal der St. Jakob Kirche ist ihre beeindruckende Orgel, die im 18. Jahrhundert vom berühmten Orgelbauer Johann Sebastian Bach gebaut wurde. Die Orgel gilt als eine der bedeutendsten historischen Orgeln Deutschlands und wird regelmäßig für Konzerte genutzt. Die Kirche selbst ist ein beeindruckendes Beispiel für die Architektur des Mittelalters, mit gotischen Fenstern, einem imposanten Glockenturm und zahlreichen kunstvollen Verzierungen. Die St. Jakob Kirche ist nicht nur ein religiöser Ort, sondern auch ein kulturelles und historisches Juwel in Köthen. Heute wird die Kirche für Gottesdienste, Konzerte und andere kulturelle Veranstaltungen genutzt. Besucher können die Kirche besichtigen und die beeindruckende Orgel sowie die historischen Kunstwerke bewundern."
+    },
+    "bach": {
+      "title": "Hier hat den Komponist Johann Sebastian Bach Gechichte geschrieben",
+      "text1": "Die Stadt des berühmten Komponisten Johann Sebastian Bach verbunden ist. Bach verbrachte einige Jahre seiner Karriere in Köthen und komponierte dort einige seiner bedeutendsten Werke. Im Jahr 1717 trat Bach eine Stelle als Kapellmeister am Hof des Fürsten Leopold von Anhalt-Köthen an. Während seiner Zeit in Köthen komponierte Bach eine Reihe von Stücken, darunter seine berühmten Brandenburgischen Konzerte und die Orchestersuite Nr. 2 in h-Moll.",
+      "text2": "Eine interessante Anekdote aus Bachs Zeit in Köthen erzählt von einem Auftritt, den er für den Fürsten Leopold gab. Bach spielte eine Sonate auf der Violine, während er auf einem Bein stand. Der Fürst war so beeindruckt von Bachs Leistung, dass er ihm eine goldene Uhrenkette als Geschenk gab.",
+      "text3": "Bach verließ Köthen im Jahr 1723, als er eine Stelle als Kantor an der Thomaskirche in Leipzig annahm. Obwohl er nur wenige Jahre in Köthen verbracht hat, hinterließ er einen bleibenden Eindruck auf die Stadt und ihre Geschichte. Heute gibt es in Köthen eine Bach-Gedenkstätte, die an seine Zeit in der Stadt erinnert."
+    },
+    "transport": {
+      "title": "Fühlt sich alles nah daran",
+      "text": "Köthen verfügt über eine gute Verkehrsanbindung zu den großen Städten in der Umgebung. Die Autobahn A9 ist nur wenige Kilometer entfernt und bietet eine schnelle Anbindung nach Berlin, Leipzig und München. Die Bundesstraßen B6 und B183 führen durch Köthen und verbinden die Stadt mit anderen Städten in Sachsen-Anhalt und darüber hinaus. Für Reisende, die öffentliche Verkehrsmittel bevorzugen, gibt es regelmäßige Zugverbindungen nach Leipzig, Halle, Magdeburg und Berlin. Der Bahnhof Köthen liegt im Zentrum der Stadt und ist gut zu Fuß oder mit dem Bus erreichbar. Darüber hinaus gibt es verschiedene Buslinien, die Köthen mit den umliegenden Städten und Gemeinden verbinden. Auch der Flughafen Leipzig/Halle ist nur eine Stunde Autofahrt entfernt und bietet Verbindungen zu vielen nationalen und internationalen Zielen. Insgesamt bietet Köthen eine gute Verkehrsanbindung und ist daher ein attraktiver Standort für Pendler und Unternehmen, die eine gute Anbindung an die großen Städte suchen."
+    }
+  },
+  "hannover": {
+    "intro": {
+      "title": "Die Hauptstadt Niedersachsens",
+      "text": "Hannover ist eine lebendige Metropole mit einer perfekten Mischung aus Geschichte, Kultur und Moderne. Als wichtiges Wirtschaftszentrum und Messestadt bietet Hannover hervorragende Möglichkeiten für Arbeit und Leben. Unser Immobilienportfolio in Hannover richtet sich an Fachkräfte, Familien und Investoren, die in einer der dynamischsten Städte Deutschlands leben möchten."
+    },
+    "business": {
+      "title": "Wirtschaftsstandort und Innovation",
+      "text1": "Hannover ist ein bedeutender Wirtschaftsstandort mit internationaler Ausstrahlung. Die Stadt beherbergt große Unternehmen wie Continental, Volkswagen Nutzfahrzeuge und TUI. Als Messestadt ist Hannover weltweit bekannt für Events wie die Hannover Messe, die CeBIT und die IAA Nutzfahrzeuge.",
+      "text2": "Die Leibniz Universität und die Medizinische Hochschule Hannover sind führende Forschungseinrichtungen, die Innovation und wissenschaftlichen Fortschritt fördern. Dies macht Hannover zu einem attraktiven Standort für Fachkräfte aus Technologie, Medizin und Forschung.",
+      "text3": "Die Stadt bietet exzellente Karrieremöglichkeiten in verschiedenen Branchen, von Automobil und Maschinenbau bis hin zu IT und Life Sciences."
+    },
+    "culture": {
+      "title": "Kultur und Lebensqualität",
+      "text1": "Hannover bietet eine außergewöhnliche Lebensqualität mit zahlreichen Parks und Grünflächen. Die weltberühmten Herrenhäuser Gärten sind ein barockes Juwel und eine Oase der Ruhe inmitten der Stadt.",
+      "text2": "Der Maschsee ist ein beliebtes Naherholungsgebiet, perfekt für Spaziergänge, Wassersport und Entspannung. Die Stadt verfügt über exzellente Theater, Museen wie das Sprengel Museum und eine lebendige Musikszene.",
+      "text3": "Mit erstklassigen Schulen, Kindergärten und medizinischen Einrichtungen bietet Hannover ideale Bedingungen für Familien. Die Stadt vereint urbanes Leben mit hoher Lebensqualität."
+    },
+    "transport": {
+      "title": "Perfekte Verkehrsanbindung",
+      "text1": "Hannover liegt im Herzen Deutschlands und ist ein zentraler Verkehrsknotenpunkt. Der Hauptbahnhof ist einer der wichtigsten in Deutschland mit ICE-Verbindungen in alle großen Städte. Berlin, Hamburg und Frankfurt sind in unter 2 Stunden erreichbar.",
+      "text2": "Der Flughafen Hannover-Langenhagen bietet internationale Verbindungen und ist mit der S-Bahn in 17 Minuten vom Hauptbahnhof erreichbar. Die Autobahnen A2 und A7 kreuzen sich in Hannover und ermöglichen schnelle Verbindungen in alle Himmelsrichtungen.",
+      "text3": "Das öffentliche Verkehrsnetz mit U-Bahn, S-Bahn und Bussen ist hervorragend ausgebaut und macht das Leben ohne Auto bequem möglich. Hannover ist ideal für Pendler und Geschäftsreisende."
+    },
+    "highlights": {
+      "title": "Warum Hannover?",
+      "item1": {
+        "title": "Grüne Stadt",
+        "description": "Über 600 Hektar Grünflächen, Parks und Wälder für Erholung und Lebensqualität"
+      },
+      "item2": {
+        "title": "Bildung",
+        "description": "Renommierte Universitäten, erstklassige Schulen und internationale Bildungseinrichtungen"
+      },
+      "item3": {
+        "title": "Gastronomie",
+        "description": "Vielfältige kulinarische Szene von traditioneller deutscher Küche bis internationale Spezialitäten"
+      },
+      "item4": {
+        "title": "Sport & Freizeit",
+        "description": "Hannover 96, zahlreiche Sportvereine und Freizeitmöglichkeiten für jeden Geschmack"
+      },
+      "item5": {
+        "title": "Shopping",
+        "description": "Von der Altstadt bis zur modernen Ernst-August-Galerie – Shopping auf höchstem Niveau"
+      },
+      "item6": {
+        "title": "Events",
+        "description": "Maschseefest, Schützenfest, Feuerwerkswettbewerb und viele kulturelle Highlights das ganze Jahr"
+      }
+    }
+  },
+  "agypten": {
+    "tarek": {
+      "title": "Gründung und Entwicklung der Tarek Gardens Compound",
+      "text1": "Als Teilhaber des Tarek Gardens Compound, einem der renommiertesten Projekte seit Jahrzehnten in in Al-Minya, Ägypten, freuen wir uns, über 35 luxuriöse Wohnungen in unserer Anlage anzubieten.",
+      "text2": "Tarek Gardens Compound ist ein modernes Wohnprojekt in der Stadt Minya, Ägypten. Das Projekt wurde von Tarek Contracting gegründet, einem der führenden Bauunternehmen in Ägypten.",
+      "text3": "Das Tarek Gardens Compound ist ein Gated Community, die aus einer Reihe von modernen Gebäuden besteht, die mit hochwertigen Annehmlichkeiten ausgestattet sind. Das Projekt bietet seinen Bewohnern eine ruhige und sichere Umgebung zum Leben, mit vielen Grünflächen, Parks und Gärten.",
+      "text4": "Die Apartments im Tarek Gardens Compound sind geräumig und gut ausgestattet, mit modernen Küchen, Klimaanlagen und großen Fenstern, die viel Licht und Luft hereinlassen. Es gibt auch eine Reihe von Annehmlichkeiten, wie z.B. einen Gemeinschaftspool, einen Fitnessraum, einen Kinderspielplatz und einen Parkplatz.",
+      "text5": "Das Tarek Gardens Compound ist auch günstig gelegen, in der Nähe von Einkaufszentren, Restaurants, Schulen und anderen Einrichtungen. Es ist ein idealer Ort für Familien und Einzelpersonen, die ein modernes und bequemes Leben in Minya suchen.",
+      "text6": "Insgesamt ist das Tarek Gardens Compound ein Beispiel für die wachsende Entwicklung und Modernisierung von Minya. Es zeigt, dass die Stadt nicht nur reich an Geschichte und Kultur ist, sondern auch moderne und komfortable Lebensräume bieten kann, die den Bedürfnissen ihrer Bewohner entsprechen."
+    },
+    "amarna": {
+      "title": "Stadt des Friedens und der Harmonie",
+      "text1": "Minya ist eine Stadt in Ägypten mit einer reichen Geschichte, die bis in die pharaonische Zeit zurückreicht. die Stadt der Tell el-Amarna.",
+      "text2": "Tell el-Amarna ist eine antike Stadt, die von Pharao Echnaton im 14. Jahrhundert v.Chr. gegründet wurde. Die Stadt war die Hauptstadt des Neuen Reiches und wurde als Kultzentrum des Sonnengottes Aton genutzt. Die Stadt wurde auch als Ort des Friedens und der Harmonie angesehen, da Echnaton den Polytheismus zugunsten des Monotheismus aufgab und die Idee einer universellen Gottheit förderte.",
+      "text3": "Die Stadt wurde jedoch nach dem Tod von Echnaton aufgegeben und vergessen, bis sie 1887 von britischen Archäologen entdeckt wurde. Die Entdeckung der Stadt war ein wichtiger Moment in der Geschichte der Archäologie und hat dazu beigetragen, unser Verständnis der ägyptischen Geschichte zu vertiefen.",
+      "text4": "Heute können Besucher die Ruinen von Tell el-Amarna besichtigen und mehr über die Geschichte und Kultur Ägyptens erfahren. Es ist ein faszinierender Ort, der zeigt, wie selbst eine vergessene Stadt wie Tell el-Amarna nach vielen Jahrhunderten immer noch Geschichten zu erzählen hat."
+    },
+    "tuna": {
+      "title": "Willkommen in Tuna el-Gebel Necropolis, Zuhause in das 6. Jahrhundert v. Chr.",
+      "text1": "Die Tuna el-Gebel Necropolis ist eine antike Nekropole in der Nähe der Stadt Minya, die viele wichtige archäologische Entdeckungen enthält. Im Jahr 1892 entdeckte der französische Archäologe Gaston Maspero die Nekropole und begann, sie auszugraben.",
+      "text2": "Im Laufe der Jahre wurden in der Tuna el-Gebel Necropolis zahlreiche Artefakte und Überreste aus der pharaonischen Zeit Ägyptens gefunden. Dazu gehören Gräber, Tempel, Statuen und Reliefs, die alle einen Einblick in das Leben und die Kultur der alten Ägypter geben.",
+      "text3": "Eine der bemerkenswertesten Entdeckungen in der Tuna el-Gebel Necropolis war das Grab von Petosiris, einem Priester und hoher Beamter während der griechisch-römischen Zeit in Ägypten. Sein Grab enthielt viele gut erhaltene Reliefs und Inschriften, die sein Leben und seine Tätigkeiten beschrieben."
+    },
+    "harmony": {
+      "title": "Christ oder Muslim? ich bin Ägypter",
+      "text1": "In Ägypten gibt es eine lange Tradition des Zusammenlebens und der Zusammenarbeit zwischen Christen und Muslimen. Die meisten Ägypter, unabhängig von ihrer religiösen Zugehörigkeit, betrachten sich als Teil einer gemeinsamen ägyptischen Nation und teilen viele kulturelle Traditionen.",
+      "text2": "Es ist wichtig zu betonen, dass das gute Zusammenleben zwischen Christen und Muslimen in Ägypten nicht nur auf Toleranz beruht, sondern auf einer tiefen Wertschätzung und Respekt füreinander. Die Menschen erkennen die Unterschiede zwischen ihren Religionen an, aber sie feiern auch ihre gemeinsamen Werte und Bräuche.",
+      "text3": "In einer Zeit, in der es auf der Welt so viele Konflikte zwischen verschiedenen religiösen Gruppen gibt, kann das Beispiel Ägyptens als inspirierendes Modell dienen, wie Menschen unterschiedlicher Glaubensrichtungen in Frieden und Harmonie zusammenleben können."
+    }
+  },
+  "admin": {
+    "common": {
+      "loading": "Loading...",
+      "saving": "Saving...",
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "add": "Add",
+      "actions": "Actions",
+      "confirmDelete": "Are you sure you want to delete?",
+      "error": "Error",
+      "success": "Success",
+      "back": "Back",
+      "search": "Search...",
+      "noResults": "No results found",
+      "required": "Required"
+    },
+    "login": {
+      "title": "Admin Login",
+      "subtitle": "Sign in to access the dashboard",
+      "username": "Username",
+      "usernamePlaceholder": "Enter your username",
+      "password": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "signingIn": "Signing in...",
+      "signIn": "Sign In",
+      "invalidCredentials": "Invalid credentials",
+      "showPassword": "Show password",
+      "hidePassword": "Hide password"
+    },
+    "dashboard": {
+      "title": "Admin Panel",
+      "welcome": "Welcome",
+      "overview": "Overview",
+      "cities": "Cities",
+      "videos": "Videos",
+      "logout": "Logout",
+      "profile": "Profile",
+      "settings": "Settings",
+      "totalCities": "Total Cities",
+      "totalVideos": "Total Videos",
+      "recentActivity": "Recent Activity",
+      "quickActions": "Quick Actions",
+      "addNewCity": "Add New City",
+      "addNewVideo": "Add New Video",
+      "viewAllCities": "View All Cities",
+      "viewAllVideos": "View All Videos"
+    },
+    "cityList": {
+      "title": "Manage Cities",
+      "addCity": "Add City",
+      "name": "Name",
+      "slug": "Slug",
+      "noCities": "No cities found. Create one!",
+      "deleteConfirm": "Are you sure you want to delete this city?",
+      "deleteSuccess": "City deleted successfully",
+      "deleteError": "Failed to delete city"
+    },
+    "cityEditor": {
+      "newCity": "New City",
+      "editCity": "Edit City",
+      "basicInfo": "Basic Info",
+      "cityName": "City Name",
+      "slug": "Slug (URL Part)",
+      "slugHelp": "Will be used in the page URL",
+      "heroImage": "Hero Image",
+      "upload": "Upload",
+      "uploading": "Uploading...",
+      "introText": "Intro Text",
+      "contentSections": "Content Sections",
+      "addSection": "Add Section",
+      "section": "Section",
+      "sectionTitle": "Section Title",
+      "sectionContent": "Section Content",
+      "sectionImage": "Section Image",
+      "uploadImage": "Upload Image",
+      "removeSection": "Remove Section",
+      "activities": "Activities / Highlights",
+      "addActivity": "Add Activity",
+      "activity": "Activity",
+      "dayTitle": "Day / Title",
+      "activityDescription": "Activity / Description",
+      "removeActivity": "Remove Activity",
+      "saveCity": "Save City",
+      "saveSuccess": "City saved successfully",
+      "saveError": "Error saving city",
+      "dragToReorder": "Drag to reorder"
+    },
+    "videoManager": {
+      "title": "Video Manager",
+      "currentVideos": "Current Videos",
+      "noVideos": "No videos added yet.",
+      "addNewVideo": "Add New Video",
+      "youtubeUrl": "YouTube URL",
+      "youtubeUrlPlaceholder": "https://www.youtube.com/watch?v=...",
+      "titleArabic": "Title (Arabic)",
+      "titleArabicPlaceholder": "العنوان بالعربية",
+      "titleGerman": "Title (German)",
+      "titleGermanPlaceholder": "Deutscher Titel",
+      "descArabic": "Description (Arabic)",
+      "descArabicPlaceholder": "الوصف بالعربية",
+      "descGerman": "Description (German)",
+      "descGermanPlaceholder": "Deutsche Beschreibung",
+      "addVideo": "Add Video",
+      "deleteConfirm": "Delete this video?",
+      "addSuccess": "Video added successfully",
+      "deleteSuccess": "Video deleted successfully",
+      "addError": "Failed to add video",
+      "deleteError": "Failed to delete video"
+    },
+    "bilingual": {
+      "arabic": "Arabic",
+      "german": "German",
+      "arabicPlaceholder": "النص بالعربية",
+      "germanPlaceholder": "Deutscher Text"
+    },
+    "theme": {
+      "light": "Light",
+      "dark": "Dark",
+      "toggle": "Toggle theme"
+    },
+    "account": {
+      "title": "Account Settings",
+      "subtitle": "Manage your account information and security settings",
+      "profile": "Profile",
+      "security": "Security",
+      "dangerZone": "Danger Zone",
+      "profileInfo": "Profile Information",
+      "profileDesc": "Update your basic account information",
+      "username": "Username",
+      "usernamePlaceholder": "Enter username",
+      "email": "Email",
+      "emailPlaceholder": "Enter email",
+      "saveChanges": "Save Changes",
+      "profileUpdated": "Profile updated successfully",
+      "changePassword": "Change Password",
+      "passwordDesc": "Ensure your account uses a strong password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "updatePassword": "Update Password",
+      "passwordChanged": "Password changed successfully",
+      "passwordMismatch": "Passwords do not match",
+      "passwordTooShort": "Password must be at least 6 characters",
+      "passwordStrong": "Strong password",
+      "passwordWeak": "Weak password (at least 6 characters)",
+      "dangerDesc": "Irreversible actions",
+      "resetAccount": "Reset Account",
+      "resetDesc": "Reset password to default (admin123)",
+      "resetButton": "Reset",
+      "resetConfirmTitle": "Confirm Reset",
+      "resetConfirmDesc": "Password will be reset to default and you will be logged out",
+      "resetWarning": "This action will reset your password to admin123 and you will be logged out.",
+      "typeResetLabel": "Type RESET to confirm",
+      "typeReset": "Please type RESET to confirm",
+      "confirmReset": "Confirm Reset",
+      "accountReset": "Account reset. Default password: admin123"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+export default function Geschaftsmodell() {
+  return (
+    <div className="min-h-screen flex items-center justify-center">
+      <h1 className="text-4xl font-bold">Geschäftsmodell</h1>
+    </div>
+  );
+}
