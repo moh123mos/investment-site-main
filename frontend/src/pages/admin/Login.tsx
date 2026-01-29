@@ -74,7 +74,7 @@ export default function Login() {
         visible: {
             opacity: 1,
             y: 0,
-            transition: { duration: 0.25, ease: 'easeOut' },
+            transition: { duration: 0.25, ease: 'easeOut' as const },
         },
     };
 
@@ -83,7 +83,7 @@ export default function Login() {
         visible: {
             scale: 1,
             opacity: 1,
-            transition: { duration: 0.3, ease: 'easeOut' },
+            transition: { duration: 0.3, ease: 'easeOut' as const },
         },
     };
 

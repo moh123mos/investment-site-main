@@ -76,14 +76,6 @@ export default function CityList() {
         }
     };
 
-    const containerVariants = {
-        hidden: { opacity: 0 },
-        visible: {
-            opacity: 1,
-            transition: { staggerChildren: 0.05 },
-        },
-    };
-
     const rowVariants = {
         hidden: { opacity: 0, x: isRTL ? 20 : -20 },
         visible: { opacity: 1, x: 0 },

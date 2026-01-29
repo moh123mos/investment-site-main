@@ -6,9 +6,7 @@ import {
     LayoutDashboard, 
     Video, 
     LogOut, 
-    User, 
     Menu, 
-    X, 
     ChevronRight,
     Home,
     Building2,
@@ -20,7 +18,6 @@ import { useAuth } from '../../contexts/AuthContext';
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarFallback } from '@/components/ui/avatar';
 import { Badge } from '@/components/ui/badge';
-import { Separator } from '@/components/ui/separator';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import {
     DropdownMenu,
