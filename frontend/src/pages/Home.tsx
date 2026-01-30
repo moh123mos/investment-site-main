@@ -11,16 +11,18 @@ import {
 import { Card, CardContent } from "@/components/ui/card";
 
 export default function Home() {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
   const [videos, setVideos] = useState<any[]>([]);
   const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000';
 
   useEffect(() => {
-    fetch(`${API_URL}/api/videos`)
+    fetch(`${API_URL}/api/videos`, {
+      headers: { 'Accept-Language': i18n.language }
+    })
       .then(res => res.json())
       .then(data => setVideos(data))
       .catch(err => console.error(err));
-  }, [API_URL]);
+  }, [API_URL, i18n.language]);
 
   const getYoutubeId = (url: string) => {
     if (!url) return null;
