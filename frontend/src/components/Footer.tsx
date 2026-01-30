@@ -1,5 +1,6 @@
 import { Link } from 'react-router';
 import { useTranslation } from 'react-i18next';
+import { ExternalLink, Building2 } from 'lucide-react';
 
 export default function Footer() {
   const { t } = useTranslation();
@@ -13,153 +14,151 @@ export default function Footer() {
     news: 'https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFpyTVhJU0FtUmxLQUFQAQ?hl=de&gl=DE&ceid=DE%3Ade',
   };
 
+  const LinkItem = ({ href, children, external = true }: { href: string; children: React.ReactNode; external?: boolean }) => (
+    external ? (
+      <a
+        href={href}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="group flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors duration-200"
+      >
+        {children}
+        <ExternalLink className="w-3 h-3 opacity-0 -translate-x-2 group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-200" />
+      </a>
+    ) : (
+      <Link
+        to={href}
+        className="text-muted-foreground hover:text-foreground transition-colors duration-200"
+      >
+        {children}
+      </Link>
+    )
+  );
+
   return (
-    <footer className="bg-linear-to-br from-gray-100 to-slate-100 border-t border-gray-200">
-      <div className="max-w-7xl mx-auto px-4 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    <footer className="relative bg-card border-t border-border/50 transition-colors duration-300">
+      {/* Subtle gradient overlay */}
+      <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-muted/30 pointer-events-none" />
+
+      <div className="relative max-w-7xl mx-auto px-4 py-16">
+        {/* Logo Section */}
+        <div className="flex items-center gap-3 mb-12">
+          <div className="p-2.5 rounded-xl bg-primary/10">
+            <Building2 className="w-6 h-6 text-primary" />
+          </div>
+          <div>
+            <h2 className="font-bold text-foreground text-lg">Dr. M. Reda Sholkami</h2>
+            <p className="text-sm text-muted-foreground">Real Estate Investment</p>
+          </div>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Column 1: Immobilie verkaufen */}
           <div>
-            <h3 className="text-lg font-bold text-gray-800 mb-4">
+            <h3 className="text-sm font-semibold text-foreground uppercase tracking-wider mb-4">
               {t('footer.col1.title')}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               <li>
-                <a
-                  href={externalLinks.immobilienverkauf}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilienverkauf}>
                   {t('footer.col1.link1')}
-                </a>
+                </LinkItem>
               </li>
               <li>
-                <a
-                  href={externalLinks.immobilienberater}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilienberater}>
                   {t('footer.col1.link2')}
-                </a>
+                </LinkItem>
               </li>
               <li>
-                <a
-                  href={externalLinks.immobilieBewerten}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilieBewerten}>
                   {t('footer.col1.link3')}
-                </a>
+                </LinkItem>
               </li>
             </ul>
           </div>
 
           {/* Column 2: Immobilie suchen */}
           <div>
-            <h3 className="text-lg font-bold text-gray-800 mb-4">
+            <h3 className="text-sm font-semibold text-foreground uppercase tracking-wider mb-4">
               {t('footer.col2.title')}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               <li>
-                <a
-                  href={externalLinks.immobilieSuchen}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilieSuchen}>
                   {t('footer.col2.link1')}
-                </a>
+                </LinkItem>
               </li>
               <li>
-                <a
-                  href={externalLinks.immobilieSuchen}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilieSuchen}>
                   {t('footer.col2.link2')}
-                </a>
+                </LinkItem>
               </li>
             </ul>
           </div>
 
           {/* Column 3: Immobilie finanzieren */}
           <div>
-            <h3 className="text-lg font-bold text-gray-800 mb-4">
+            <h3 className="text-sm font-semibold text-foreground uppercase tracking-wider mb-4">
               {t('footer.col3.title')}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               <li>
-                <a
-                  href={externalLinks.immobilieFinanzieren}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.immobilieFinanzieren}>
                   {t('footer.col3.link1')}
-                </a>
+                </LinkItem>
               </li>
             </ul>
           </div>
 
           {/* Column 4: Unternehmen */}
           <div>
-            <h3 className="text-lg font-bold text-gray-800 mb-4">
+            <h3 className="text-sm font-semibold text-foreground uppercase tracking-wider mb-4">
               {t('footer.col4.title')}
             </h3>
-            <ul className="space-y-2">
+            <ul className="space-y-3">
               <li>
-                <Link
-                  to="/uber-uns"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href="/uber-uns" external={false}>
                   {t('footer.col4.link1')}
-                </Link>
+                </LinkItem>
               </li>
               <li>
-                <Link
-                  to="/geschaftsmodell"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href="/geschaftsmodell" external={false}>
                   {t('footer.col4.link2')}
-                </Link>
+                </LinkItem>
               </li>
               <li>
-                <a
-                  href={externalLinks.news}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href={externalLinks.news}>
                   {t('footer.col4.link3')}
-                </a>
+                </LinkItem>
               </li>
               <li>
-                <Link
-                  to="/datenschutz"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href="/datenschutz" external={false}>
                   {t('footer.col4.link4')}
-                </Link>
+                </LinkItem>
               </li>
               <li>
-                <Link
-                  to="/impressum"
-                  className="text-gray-600 hover:text-blue-600 transition-colors"
-                >
+                <LinkItem href="/impressum" external={false}>
                   {t('footer.col4.link5')}
-                </Link>
+                </LinkItem>
               </li>
             </ul>
           </div>
         </div>
 
-        <div className="mt-12 pt-8 border-t border-gray-300 text-center">
-          <p className="text-gray-600">
-            © {new Date().getFullYear()} Dr. M. Reda Sholkami. All rights reserved.
-          </p>
+        <div className="mt-16 pt-8 border-t border-border/50">
+          <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+            <p className="text-sm text-muted-foreground">
+              © {new Date().getFullYear()} Dr. M. Reda Sholkami. All rights reserved.
+            </p>
+            <div className="flex items-center gap-6">
+              <Link to="/datenschutz" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+                Privacy Policy
+              </Link>
+              <Link to="/impressum" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+                Impressum
+              </Link>
+            </div>
+          </div>
         </div>
       </div>
     </footer>
